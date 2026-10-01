@@ -50,7 +50,7 @@ The dashboard includes:
 
 The dashboard provides an interactive view of sales trends, order performance, ratings, food-type distribution, and geographical sales performance.
 
-dashboard <a href="https://github.com/Suman-Yadav2002/Demo/commit/80402de7f8eee4536faddbca97cb40be27c749dd">dashboard view</a>
+dashboard <a href="https://github.com/Suman-Yadav2002/Demo/blob/main/Swiggy%20SS.png">dashboard view</a>
 
 
 ## 💡 Key Business Insights
