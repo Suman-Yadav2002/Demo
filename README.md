@@ -65,4 +65,8 @@ dashboard <a href="https://github.com/Suman-Yadav2002/Demo/blob/main/Swiggy%20SS
 
 The objective of this project is to transform raw sales data into an interactive Excel dashboard that makes it easier to monitor KPIs, identify trends, and support data-driven business decisions.
 
+ 💡Looking for a custom dashboard for your business? Let's connect👩‍💻📈
+ <img width="978" height="575" alt="Swiggy SS" src="https://github.com/user-attachments/assets/90804195-de62-42a1-a8d6-ffd930d4abe7" />
+
+ 
 #Excel #DataAnalytics #DataVisualization #Swiggy #ExcelDashboard #BusinessIntelligence #DataAnalysis #PivotTable
