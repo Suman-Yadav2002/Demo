@@ -69,4 +69,9 @@ The objective of this project is to transform raw sales data into an interactive
  <img width="978" height="575" alt="Swiggy SS" src="https://github.com/user-attachments/assets/90804195-de62-42a1-a8d6-ffd930d4abe7" />
 
  
-#Excel #DataAnalytics #DataVisualization #Swiggy #ExcelDashboard #BusinessIntelligence #DataAnalysis #PivotTable
+🍴📊 Swiggy Sales Dashboard📈
+I'm excited to share my latest Excel Sales & Business Performance Dashboard, designed to analyze sales, orders, ratings, customer trends, and geographical performance.
+📊 Total Sales | 🛒 Total Orders | ⭐ Average Rating | 💰 Average Order Value | 📈 Monthly & Weekly Trends | 🗺️ State-wise Sales | 🏙️ Top 5 Cities | 🍔 Food Type Analysis
+💡 Data-driven insights for better business decisions!
+👩‍💻📈 Looking for a custom dashboard for your business? Let's connect! 🤝
+#ExcelDashboard #DataVisualization #DataAnalytics #Excel #BusinessIntelligence #PivotTable #DataAnalysis #SwiggyDashboard #ExcelSkills
